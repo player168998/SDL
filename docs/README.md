@@ -1,4 +1,3 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/player168998/SDL)****
 # Simple DirectMedia Layer
 
 https://www.libsdl.org/
